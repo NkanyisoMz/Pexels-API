@@ -13,5 +13,5 @@ A Ruby on Rails application that displays photos from Pexels collections. Users 
 
 1. **Clone the repo**
 ```bash
-git clone https://github.com/NkanyisoMz/pexels_gallery.git
+git clone https://github.com/NkanyisoMz/Pexels-API.git
 cd pexels_gallery

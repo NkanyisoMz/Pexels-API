@@ -1,24 +1,17 @@
-# README
+# Pexels Photo Gallery
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+A Ruby on Rails application that displays photos from Pexels collections. Users can enter a collection ID and see the photos from that collection.
 
-Things you may want to cover:
+## Features
 
-* Ruby version
+- Fetch and display photos from Pexels using the Pexels API.
+- Securely store API key using Rails credentials.
+- Dynamically load photos from a collection entered by the user.
+- Display photographer names and images in a responsive layout.
 
-* System dependencies
+## Setup
 
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+1. **Clone the repo**
+```bash
+git clone https://github.com/NkanyisoMz/pexels_gallery.git
+cd pexels_gallery
